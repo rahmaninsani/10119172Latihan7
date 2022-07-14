@@ -1,0 +1,14 @@
+<!--
+    NIM     : 10119172
+    Nama    : Rahman Insani
+    Kelas   : IF-5
+
+    Kamis, 14 Juli 2022
+-->
+
+<resources>
+    <string name="app_name">10119172Latihan7</string>
+    <string name="my_name">Rahman Insani</string>
+    <string name="message">Pesan</string>
+    <string name="message_hint">Ketik pesan</string>
+</resources>

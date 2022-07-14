@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    NIM     : 10119172
+    Nama    : Rahman Insani
+    Kelas   : IF-5
+
+    Kamis, 14 Juli 2022
+-->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/colorBlue"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/ic_send"
+        android:bottom="@dimen/dimen12"
+        android:left="@dimen/dimen12"
+        android:right="@dimen/dimen12"
+        android:top="@dimen/dimen12" />
+</layer-list>
